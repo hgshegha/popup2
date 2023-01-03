@@ -12,7 +12,7 @@ myJson.response.results.forEach((item) =>
  
     block.innerHTML += `
             <div class="message">
-                <div class="img"><img src="/aramn3/https___s3.amazonaws.com_appforest_uf_f1669301075946x302729185013369340_al-pacino-scarface.jpg" alt=""></div>
+                <div class="img"><img src="https___s3.amazonaws.com_appforest_uf_f1669301075946x302729185013369340_al-pacino-scarface.jpg" alt=""></div>
                 <div class="text-main">
                     <span id="text1" class="text">${item.category1_text}</span>
                     <span id="text2" class="text">${item.jobtype1_list_text}</span>
