@@ -1,0 +1,98 @@
+{
+    "response": {
+        "cursor": 0,
+        "results": [
+            {
+                "Modified Date": "2022-12-20T11:31:03.053Z",
+                "Created Date": "2022-12-20T09:43:05.469Z",
+                "Created By": "1670594362564x971946914643139200",
+                "Slug": "colombella-colombellas--colombellos-gesucht",
+                "banner_image": "//s3.amazonaws.com/appforest_uf/f1671529272652x482566714702657100/IMG_9191%20Large.jpeg",
+                "beschreibung_text": "Wir suchen zuverlässige und freundliche Servicekräfte für unser Restaurant in Oberkassel. Als Servicekraft sind Sie dafür verantwortlich, unsere Gäste zu begrüßen, ihre Bestellungen aufzunehmen und zu servieren und dafür zu sorgen, dass sich unsere Gäste während ihres Aufenthalts bei uns wohl fühlen.\n\nWir erwarten, dass Sie ein freundliches und professionelles Auftreten haben und in der Lage sind, sich schnell in neue Aufgaben einzuarbeiten. Zudem sollten Sie belastbar und teamfähig sein und sich für den Service interessieren. Wir bieten Ihnen eine abwechslungsreiche und herausfordernde Tätigkeit in einem dynamischen Umfeld.",
+                "category1_text": "Service 🍻 ",
+                "isactive_boolean": true,
+                "jobtype1_list_text": [
+                    "Vollzeit"
+                ],
+                "location_geographic_address": {
+                    "address": "Sonderburgstraße 27, 40545 Düsseldorf, Deutschland",
+                    "lat": 51.2309312,
+                    "lng": 6.7472516
+                },
+                "starttime_text": "Ab sofort",
+                "title_text": "Colombellas & Colombellos gesucht!",
+                "triggerword_text": "colombella",
+                "unternehmen_custom_unternehmen": "1671469520270x854963558875398100",
+                "user1_user": "1671460189807x894629027113979000",
+                "views_number": 162,
+                "voraussetzungen_list_text": [
+                    "Volljährigkeit, Berufserfahrung erforderlich, Fließende Deutschkenntnisse"
+                ],
+                "whatsapplink_text": "https://wa.me/message/2CU7SOSKB625C1",
+                "_id": "1671529383254x688668954856521700"
+            },
+            {
+                "Modified Date": "2022-12-20T09:43:01.909Z",
+                "Created Date": "2022-12-20T09:43:01.672Z",
+                "Created By": "1670596612559x826348580735317000",
+                "Slug": "spencer--hill-küchenhilfemwd",
+                "banner_image": "//s3.amazonaws.com/appforest_uf/f1671529321258x209352190913528100/Location%20Spencer%20%283%29.jpeg",
+                "beschreibung_text": "Du unterstützt unser Küchenteam in der Zubereitung der Speisen und sorgst für Sauberkeit in der Küche. ",
+                "category1_text": "Küche 🍳",
+                "isactive_boolean": true,
+                "jobtype1_list_text": [
+                    "Minijob",
+                    "Teilzeit",
+                    "Vollzeit"
+                ],
+                "location_geographic_address": {
+                    "address": "Köln, Deutschland",
+                    "lat": 50.937531,
+                    "lng": 6.9602786
+                },
+                "question1_text": "Hast du bereits Erfahrung in der Küche? ",
+                "question2_text": "Sprichst du Deutsch?",
+                "starttime_text": "Ab sofort",
+                "title_text": "Küchenhilfe(m/w/d)",
+                "unternehmen_custom_unternehmen": "1670597391411x660817364456833000",
+                "user1_user": "1670596612559x826348580735317000",
+                "views_number": 0,
+                "voraussetzungen_list_text": [
+                    "Volljährigkeit"
+                ],
+                "_id": "1671529379599x172326994068897800"
+            },
+            {
+                "Modified Date": "2022-12-14T16:35:27.241Z",
+                "Created Date": "2022-12-13T16:18:37.631Z",
+                "Created By": "1670594362564x971946914643139200",
+                "Slug": "temma-bio-markt-mitarbeiterin-biomarkt",
+                "banner_image": "//s3.amazonaws.com/appforest_uf/f1670948197996x947927140583767000/cropped-TEMMA-Logo-Retina.png",
+                "beschreibung_text": "Wir suchen für unseren Markt in Köln-Braunsfeld auf der Aachener Str. nette Mitarbeiter*innen in Vollzeit (37,5 Std.).",
+                "category1_text": "Lebensmitteleinzelhandel 🛒",
+                "isactive_boolean": true,
+                "jobtype1_list_text": [
+                    "Vollzeit"
+                ],
+                "location_geographic_address": {
+                    "address": "Aachener Str. 497, 50933 Köln, Deutschland",
+                    "lat": 50.9369558,
+                    "lng": 6.9009609
+                },
+                "starttime_text": "Ab sofort",
+                "title_text": "Mitarbeiter:in Biomarkt",
+                "triggerword_text": "temma",
+                "unternehmen_custom_unternehmen": "1670948169690x865123171533586400",
+                "user1_user": "1670947925339x939289042933392000",
+                "views_number": 56,
+                "voraussetzungen_list_text": [
+                    "Volljährigkeit, Fließende Deutschkenntnisse"
+                ],
+                "whatsapplink_text": "https://wa.me/message/QBDS2RFQOXJ4F1",
+                "_id": "1670948315657x444847127329243140"
+            }
+        ],
+        "count": 3,
+        "remaining": 0
+    }
+}
