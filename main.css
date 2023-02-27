@@ -35,8 +35,6 @@
     z-index: 2;
     height: 90%;
     width: 90%;
-    overflow:scroll;
-    overflow-x:hidden;
 }
 
 .message {
